@@ -1,3 +1,4 @@
+# this is the apps.py file
 from django.apps import AppConfig
 
 
