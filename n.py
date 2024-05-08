@@ -3,3 +3,5 @@
 # i think this is good
 
 print("hello world")
+
+print("hi there")
